@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVGenerator ASP.NET", "CVGenerator ASP.NET\CVGenerator ASP.NET.csproj", "{CA274B5B-9D0C-4F77-BC36-D5464854844F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA274B5B-9D0C-4F77-BC36-D5464854844F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA274B5B-9D0C-4F77-BC36-D5464854844F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA274B5B-9D0C-4F77-BC36-D5464854844F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA274B5B-9D0C-4F77-BC36-D5464854844F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
